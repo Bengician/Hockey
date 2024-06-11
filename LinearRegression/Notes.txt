@@ -1,0 +1,11 @@
+-ask a question
+	-does increased time on ice lead to more goals?
+-pre-process data
+	-group by player_id, x is timeOnIce per 60, y is goals per 60
+-tune hyperparameters
+-run model
+	-player_id
+-check assumptions
+-interpret results in plain English
+	-need to control for position as covariate and re-run analysis
+	-could also do a cluster analysis (instead of looking up player position), which is stupid but good practice
