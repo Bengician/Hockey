@@ -1,0 +1,9 @@
+-ask a question
+	-can you predict player position from points and ice time?
+-pre-process data
+
+-tune hyperparameters
+-run model
+
+-check assumptions
+-interpret results in plain English
